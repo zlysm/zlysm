@@ -13,5 +13,5 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=zlysm&theme=react-dark" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zlysm&theme=react" />
 </div>
