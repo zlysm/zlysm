@@ -13,5 +13,5 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zlysm&theme=react" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlysm&theme=react" />
 </div>
